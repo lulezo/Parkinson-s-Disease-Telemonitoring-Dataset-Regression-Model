@@ -21,3 +21,9 @@ To retrieve your IP address, run the following command:
 Execute this command in your terminal or command prompt, and the output will display your IP address.
 
 ---
+
+**Viewing the Website**
+
+To see the deployed model in action, refer to the image below showcasing the website when opened:
+
+![Model_Deployment](https://github.com/lulezo/Parkinson-s-Disease-Telemonitoring-Dataset-Regression-Model/assets/14997287/334aaee6-388d-4ac3-aad4-aed4bb4a381e)
