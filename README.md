@@ -27,3 +27,9 @@ Execute this command in your terminal or command prompt, and the output will dis
 To see the deployed model in action, refer to the image below showcasing the website when opened:
 
 ![Model_Deployment](https://github.com/lulezo/Parkinson-s-Disease-Telemonitoring-Dataset-Regression-Model/assets/14997287/334aaee6-388d-4ac3-aad4-aed4bb4a381e)
+
+**Video Presentation**
+Here is the url for video presentation of the projetc:
+https://www.loom.com/share/e932262f7d2a4210a453a8942fe0e3f1?sid=c218ec8e-6a91-48f5-b1ae-1057d208d1f1
+
+
